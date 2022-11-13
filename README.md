@@ -10,3 +10,12 @@ The images file is attached along side so that we can tryout the code different 
 ![image](https://user-images.githubusercontent.com/99266959/201527688-07b2f640-9825-4ccb-95bf-7b52da0cdf31.png)
 
 So here we can see on running the cell the image has been divide into a set of grids which gives us the exact dimensions of the image converting it to the float format.
+
+Now we will run the cell for resizing the image with the dimensions (400 x 400) we will get the desired result.
+
+![image](https://user-images.githubusercontent.com/99266959/201527984-35eb39bd-0dba-4806-88c6-8bfe28efc1d4.png)
+
+Like this we can try the code out for diffrent dimensions by just inputing the values in the form (L x B).
+
+
+
